@@ -83,7 +83,7 @@
 
 프로젝트 작동 원리 및 시연 영상을 통해 더 자세한 내용을 확인할 수 있습니다.
 
-[[프로젝트 시연 영상]](https://example.com/path_to_demo_video)
+[[프로젝트 시연 영상]](https://youtu.be/td6EiACtkH4?si=sIfCbmmUMWvmbGWr)
 
 > 위를 클릭하면 외부 사이트로 이동하여 시연 영상을 확인할 수 있습니다.
 
